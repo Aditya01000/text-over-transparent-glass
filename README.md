@@ -5,5 +5,8 @@
 4. In order to make **background transparent** we use `linear-gradient` CSS property with `rgba` colors, like in this case I used `rgba(255, 255, 255, 0.3) [white], rgba(0, 0, 0, 0.3)[black]` and if u look at it closely I used 0.3 as a rgba value to make background transparent and then I rotated it to 140° so that ratio should not be 50-50.... In addition, I used 50% so that there should be **clear line which gonna be seperating black color with white .
 5. Last but not least, I used CSS property `box-shadow` to make transparent box more realistic and lifted up to make it beautiful.
 Here's how my projext looks like - 
-![mountains](https://user-images.githubusercontent.com/95962046/146973100-79ecb4e9-a5ed-4adf-96b6-4cab9827c4b1.jpeg)
+![mountains](https://user-images.githubusercontent.com/95962046/146973289-d60fd99b-8007-4d78-a657-b0bb8d8a44fc.png)
+![responsive project](https://user-images.githubusercontent.com/95962046/146973607-72e1d979-40ad-4cf2-8e2e-9a41d88b023f.png)
+
+
 
