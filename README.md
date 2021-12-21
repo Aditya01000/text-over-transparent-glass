@@ -7,6 +7,24 @@
 Here's how my projext looks like - 
 ![mountains](https://user-images.githubusercontent.com/95962046/146973289-d60fd99b-8007-4d78-a657-b0bb8d8a44fc.png)
 ![responsive project](https://user-images.githubusercontent.com/95962046/146973607-72e1d979-40ad-4cf2-8e2e-9a41d88b023f.png)
+6. ## FAQ
+
+#### Question 1 - What if I have any doubt regarding your project?
+
+Answer - You can contact me on discord, my discord username is **Aditya Sharma#1440**
+
+#### Question 2 - Can you provide a link of your project thorugh hosting websites?
+
+Answer - Sure, here it is **_________**
+
+7. ## Authors
+
+- [@NetworkPlayers aka NeOn_Gamer](https://github.com/NetworkPlayers)
+- [@Aditya0100 aka Aditya Sharma](https://github.com/Aditya0100)
+
+8. ## 🚀 End
+Hope this project helps you to learn something new. :D
+
 
 
 
