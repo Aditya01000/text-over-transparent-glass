@@ -15,7 +15,7 @@ Answer - You can contact me on discord, my discord username is **Aditya Sharma#1
 
 #### Question 2 - Can you provide a link of your project thorugh hosting websites?
 
-Answer - Sure, here it is **_________**
+Answer - Sure, here it is **https://quirky-einstein-b291a3.netlify.app**
 
 7. ## Authors
 
